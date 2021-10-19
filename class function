@@ -1,0 +1,62 @@
+#include<iostream>
+using namespace std;
+class parameter{
+    int a;
+    int b;
+    public:
+    void setdata(int x,int y){
+        a=x;
+        b=y;
+    }
+    friend parameter sumparameter(parameter o1,parameter o2);
+    void printdata(){
+        cout<<"The value is "<<a<<"+"<<b<<"i"<<endl;
+    }
+   // parameter sumparameter(parameter o1,parameter o2){
+   //     x=o1.x+o2.x;
+   //     y=o1.y+o2.y;
+   // }
+    
+    void setdatabysum(parameter o1,parameter o2){
+        a=o1.a+o2.a;
+        b=o1.b+o2.b;
+    }
+    
+    
+};
+
+int main(){
+    parameter p1,p2,sum;
+    p1.setdata(36,56);
+    p2.setdata(2,6);
+    
+    p1.printdata();
+    p2.printdata();
+    
+    sum.setdatabysum(p1,p2);
+    sum.printdata();
+    
+    return 0;
+    
+}
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+
+
