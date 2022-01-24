@@ -13,7 +13,7 @@ I'm Wasim Akrom . I Spend most of time coding outstanding projects or Problem so
 
 - 🔭 I’m currently working as Web developer intern..
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m looking to learn new things.
 - 📫 How to reach me: wasimakrom520@gmail.com
 - 😄 Pronouns: CoderOne, Developer, iWasimAkrom, 
 - ⚡ Fun fact: I play games and go to the GYM very often.
