@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 
 <h1>Hi,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="48px" alt="hi" > I'm Wasim Akrom</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimakrom&label=Profile%20views&color=129e00&style=plastic" alt="wasimakrom" /> </p>
@@ -17,6 +19,27 @@ I'm Wasim Akrom . I Spend most of time coding outstanding projects or Problem so
 - 📫 How to reach me: wasimakrom520@gmail.com
 - 😄 Pronouns: CoderOne, Developer, iWasimAkrom, 
 - ⚡ Fun fact: I play games and go to the GYM very often.
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="" target="_blank"> <img src="https://avatars.githubusercontent.com/u/13841574?s=200&v=4" width="43px"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <img  width="43px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <a href="" target="_blank"> <img src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" width="45"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="45"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/  > </a> 
+    <a style="padding-right:8px;" href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/  > </a> 
+    <a style="padding-right:8px" href="" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="55"/> </a> 
+    <a style="padding-right:8px" href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="43"/> </a>
+    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+ <a style="padding-right:8px" href="" target="_blank"> <img src="https://miro.medium.com/max/1400/1*u9uusUo8xkdgVz3qnyZSdg.png" width="60"/  > </a>
+  
+    
+</p>
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasimakrom&layout=compact)](https://github.com/wasimakrom/github-readme-stats)
