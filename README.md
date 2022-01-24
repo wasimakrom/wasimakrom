@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Wasim Akrom</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimakrom&label=Profile%20views&color=129e00&style=plastic" alt="wasimakrom" /> </p>
 
 I'm Wasim Akrom . I Spend most of time coding outstanding projects or Problem solving.
 
