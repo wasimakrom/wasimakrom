@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://pbs.twimg.com/media/FJ7RpPnaMAE_vBP?format=jpg&name=4096x4096" height="175px" /></a>
+<a href="#"><img  width="50%" height="auto" src="https://pbs.twimg.com/media/FJ7RpPnaMAE_vBP?format=jpg&name=4096x4096" height="175px" /></a>
 
 
 <h1>Hi,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="48px" alt="hi" > I'm Wasim Akrom</h1>
