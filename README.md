@@ -44,5 +44,5 @@ I'm Wasim Akrom . I Spend most of time coding outstanding projects or Problem so
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasimakrom&layout=compact)](https://github.com/wasimakrom/github-readme-stats)
 
-![WasimAkrom GitHub stats](https://github-readme-stats.vercel.app/api?username=wasimakrom&show_icons=true&theme=radical)  .
+![WasimAkrom GitHub stats](https://github-readme-stats.vercel.app/api?username=wasimakrom&show_icons=true&theme=radical) 
 
