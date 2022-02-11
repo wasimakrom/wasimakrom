@@ -28,7 +28,7 @@ I'm Wasim Akrom . I Spend most of time coding outstanding projects or Problem so
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <img  width="43px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <a href="" target="_blank"> <img src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" width="45"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="45"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/  > </a> 
