@@ -37,8 +37,7 @@ I'm Wasim Akrom . I Spend most of time coding outstanding projects or Problem so
     <a style="padding-right:8px" href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="43"/> </a>
     <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
  <a style="padding-right:8px" href="" target="_blank"> <img src="https://miro.medium.com/max/1400/1*u9uusUo8xkdgVz3qnyZSdg.png" width="60"/  > </a>
-  
-    
+
 </p>
 
 
