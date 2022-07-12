@@ -18,7 +18,7 @@ I'm Wasim Akrom . I Spend most of time coding outstanding projects or Problem so
 - 🤔 I’m looking to learn new things.
 - 📫 How to reach me: wasimakrom520@gmail.com
 - 😄 Pronouns: CoderOne, Developer, iWasimAkrom, 
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and go to the GYM very often .
 
 ## 🚀 Languages and Tools:
 
