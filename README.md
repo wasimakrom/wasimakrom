@@ -12,11 +12,11 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working as Web developer intern..
+- 🔭 I’m currently working as  `developer` .
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking to learn new things.
-- 📫 How to reach me: wasimakrom520@gmail.com
-- 😄 Pronouns: CoderOne, Developer, iWasimAkrom, 
+- 🤔 I’m looking to learn `new` things.
+- 📫 How to reach me: `wasimakrom520@gmail.com`
+- 😄 Pronouns: `CoderOne | Developer | iWasimAkrom` 
 - ⚡ Fun fact: I play games and go to the GYM very often .
 
 ## 🚀 Languages and Tools:
